@@ -32,16 +32,13 @@ p {
 }
 
 .header-user {
-    font-size: medium;
     margin: auto 0;
     margin-left: 10px;
     font-size: 13px;
-
-    
 }
 
 .header-dots {
-    margin-left: 290px;
+    margin-left: 285px;
     font-size: 20px;
 }
 /**** This is header ****/
@@ -61,11 +58,16 @@ img {
     margin-right: 10px;
     margin-bottom: 0;
     margin-top: 8px;
-    font-size: 18px;
+    font-size: 21px;
+}
+
+.fa-heart {
+    font-size: 22px;
 }
 
 .fa-comment {
     margin-left: 10px;
+    font-size: 22px;
 }
 
 .fa-paper-plane {
@@ -73,7 +75,7 @@ img {
 }
 
 .fa-bookmark {
-    margin-left: 305px;
+    margin-left: 293px;
 }
 
 .liked-by {
