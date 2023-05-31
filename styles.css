@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+    display: flex;
+    font-family: 'Roboto';
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    background-color: white;
+    width: auto;
+    position:relative;
+    margin: auto;
+    display: block;
+}
+
+/**** This is header ****/
+.post-header {
+    display: flex;
+    height: 5px;
+    margin-bottom:37px;
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.header-icon {
+    font-size: 25px;
+}
+
+.header-user {
+    font-size: medium;
+    margin: auto 0;
+    margin-left: 10px;
+    font-size: 13px;
+
+    
+}
+
+.header-dots {
+    margin-left: 290px;
+    font-size: 20px;
+}
+/**** This is header ****/
+
+img {
+    object-fit: cover;
+    width: 425px;
+    height: 425px;
+    display: block;
+}
+
+/**** This is the footer ****/
+.icons {
+    display: flex;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0;
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.fa-comment {
+    margin-left: 10px;
+}
+
+.fa-paper-plane {
+    margin-left: 10px;
+}
+
+.fa-bookmark {
+    margin-left: 305px;
+}
+
+.liked-by {
+    padding-top: 7px;
+    padding-left: 15px;
+    padding-right: 10px;
+    font-size: 15px;
+}
+
+.caption {
+    padding: 15px;
+    padding-bottom: 23px;
+    font-size: 15px;
+}
+/**** This is the footer ****/
